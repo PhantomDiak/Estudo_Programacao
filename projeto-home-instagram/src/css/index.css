@@ -1,0 +1,55 @@
+html {
+    background-color: darkgrey;
+    font-family: "Montserrat";
+}
+
+.conteudo {
+    max-width: 1500px;
+    background-color: white;
+    position: relative;
+    margin: 50px auto;
+    padding: 50px 20px;
+}
+
+.header {
+    text-align: center;
+}
+
+.main-title {
+    font-size: 70px;
+}
+
+.main-parag {
+    font-size: 25px;
+    font-style: italic;
+}
+
+.div-logo {
+    text-align: center;
+}
+
+.imagem-logo {
+    width: 100%;
+}
+
+.conteudo {
+    border-top: 1px dashed gray;
+    border-bottom: 1px dashed gray;
+}
+.biografia,
+.biografia2,
+.biografia3 {
+    
+    padding: 25px 0;
+    margin: 25px 0;
+    
+}
+.biografia{
+    font-size: 130%;
+    border-top: 1px dashed gray;
+    border-bottom: 1px dashed gray;
+}
+
+.collab {
+    width: 100%;
+}
